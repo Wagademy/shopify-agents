@@ -38,6 +38,16 @@ A practical example of AI agents in action for personalized shopping experiences
 - Agent-powered search and recommendations
 - User-friendly interface built on AI workflows
 
+### Implementing Sales Agents
+
+- Sign up for ShopMaven AI in the link <https://www.shopmaven.ai/>
+- Select the `Store Owner` profile
+- Create the profile for your store
+- Import your products from Shopify
+- Start selling your products 24/7 in all 95 supported languages with ShopMaven AI Agents
+
+> Use the coupon code `SHOPIFY-NY-100` for one month free of the `Basic` of `Pro` plan
+
 ---
 
 ## 🔍 Breakdown of Implementation
