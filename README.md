@@ -57,15 +57,15 @@ Learn how structured LLM outputs can be used to call backend functions safely an
 
 📘 [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling?api-mode=responses)
 
-### 🛠️ Building a Simple Agent in Python
-Explore how to implement agents using `llamaindex` and Python.
+### 🛠️ Building a Simple Agent with Typescript
+Explore how to implement agents using `Vercel AI SDK` and Typescript.
 
-📘 [LlamaIndex Agent Overview](https://docs.llamaindex.ai/en/stable/understanding/agent/)
+📘 [Vercel AI SDK Tool Calling Overview](https://ai-sdk.dev/docs/ai-sdk-core/tools-and-tool-calling)
 
 Topics:
 - Tool registration
 - Planning and execution
-- Basic examples with Python code
+- Basic examples with Typescript code
 
 ---
 
@@ -74,6 +74,6 @@ Topics:
 - **Play with v0.dev** to get into the “vibe” of coding with LLMs.
 - **Understand agents** via Hugging Face's approachable course.
 - **See it live** with the ShopMaven.ai demo.
-- **Dig deeper** into how it all works under the hood with OpenAI and LlamaIndex tools.
+- **Dig deeper** into how it all works under the hood with OpenAI and Vercel AI SDK tools.
 
 Happy hacking! 🚀
