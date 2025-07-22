@@ -48,6 +48,8 @@ A practical example of AI agents in action for personalized shopping experiences
 
 > Use the coupon code `SHOPIFY-NY-100` for one month free of the `Basic` of `Pro` plan
 
+- Contact Gianfranco at <g@shopmaven.ai>
+
 ---
 
 ## 🔍 Breakdown of Implementation
